@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on una  empresa o cliente.
 - 📫 How to reach me ...benedictodzibdzib@gmail.com
 - Actualmente soy Junior
-- Se pregramar en HTML5 Y CSS.
+- Se programar en HTML5 Y CSS.
 
 <!---
 B3n3dict0/B3n3dict0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
