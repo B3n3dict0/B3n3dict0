@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B3n3dict0
+- 👋 Hi, I’m @Benedicto
 - 👀 I’m interested in ...el area de la programacion
 - 🌱 I’m currently learning ...JavasCript
 - 💞️ I’m looking to collaborate on una  empresa o cliente.
